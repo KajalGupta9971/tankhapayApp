@@ -4,3 +4,6 @@ TankhaPay is a Flutter-based mobile app designed for efficient employee and empl
 
 Technologies Used
 Flutter, SQLite, Juspay Payment Gateway, Google ML Kit, Geofencing.
+
+You can download Tankhapay app on Playstore 
+Link :: https://play.google.com/store/search?q=tankhapay&c=apps&hl=en_IN
